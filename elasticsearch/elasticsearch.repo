@@ -1,0 +1,8 @@
+[elasticsearch-7.x]
+name=Elasticsearch repository for 7.x packages
+baseurl=https://artifacts.elastic.co/packages...
+gpgcheck=1
+gpgkey=https://artifacts.elastic.co/GPG-KEY-...
+enabled=1
+autorefresh=1
+type=rpm-md
